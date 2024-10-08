@@ -1,1 +1,4 @@
-nishantsankar.online
+Type: CNAME
+Name: www
+Content: Nishant18S.github.io
+TTL: 300
